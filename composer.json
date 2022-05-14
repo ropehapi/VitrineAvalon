@@ -2,7 +2,7 @@
     "name": "ropehapi/vitrine-avalon",
     "autoload": {
         "psr-4": {
-            "Ropehapi\\VitrineAvalon\\": "src/"
+            "Ropehapi\\VitrineAvalon\\": "App/"
         }
     },
     "authors": [
