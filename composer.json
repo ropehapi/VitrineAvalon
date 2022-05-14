@@ -1,0 +1,15 @@
+{
+    "name": "ropehapi/vitrine-avalon",
+    "autoload": {
+        "psr-4": {
+            "Ropehapi\\VitrineAvalon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ropehapi",
+            "email": "ropehapi@gmail.com"
+        }
+    ],
+    "require": {}
+}
